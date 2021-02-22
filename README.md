@@ -19,11 +19,4 @@ Create a web app with a frontend that resembles the modern day Facebook. User ca
 
 <h3 align="left">How to Install ❓ </h3>
 
-```javascript
-//install dependencies
-npm install
-
-//start project
-npm run start 
-```
-
+<img src="https://i.ibb.co/ySbxh1v/How-to-Install.png" alt="How-to-Install" height="60%" width="60%" >
