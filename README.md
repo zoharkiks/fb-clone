@@ -7,7 +7,7 @@
 </p>
 
 ## Introduction 🚀
-Create a web app with a frontend that resembles the modern day Facebook. User can sign in using Google Authorization. Once signed in, a user can submit a post with or without an image. This post will be saved in Firebase database and will be accessible to the user next time he or she logs in. 
+A web app with a frontend that resembles the modern day Facebook. User can sign in using Google Authorization. Once signed in, a user can submit a post with or without an image. This post will be saved in Firebase database and will be accessible to the user next time he or she logs in. 
 
 <h3 align="left">Languages and Tools 💻 </h3>
 <p>
